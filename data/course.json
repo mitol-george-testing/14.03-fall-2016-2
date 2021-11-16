@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "140d32c4-faef-5395-8ff6-ca8607d49f4d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Microeconomic Theory and Public Policy",
+  "course_description": "This course applies microeconomic theory to analysis of public policy. It builds from the microeconomic model of consumer behavior and extends to operation of single and multiple markets and analysis of why markets sometimes fail. We will study empirical examples to evaluate theory, focusing on the casual effects of policy interventions on economic outcomes. Topics include minimum wages and employment, food stamps and consumer welfare, economics of risk and safety regulation, the value of education, and gains from international trade.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "14.003",
+  "primary_course_number": "14.03",
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
